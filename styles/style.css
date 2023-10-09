@@ -1,4 +1,3 @@
-
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
@@ -9,7 +8,7 @@
 }
 
 .header__menu {
-    align-items: center;
+  align-items: center;
 }
 
 .header__links-list {
@@ -24,7 +23,7 @@
 }
 
 .header__links-list-item {
-    padding-left: 1px;
+  padding-left: 1px;
   text-underline-offset: 4px;
 }
 
@@ -45,7 +44,7 @@
 }
 
 .header__address {
-    justify-self: end;/
+  justify-self: end;
 }
 
 .address__link {
